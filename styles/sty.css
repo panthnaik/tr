@@ -205,11 +205,6 @@ body {
         height: 100px;
         background-color: #C8F2EF;
     }
-
-    body {
-        height: 3890px;
-    }
-
     .help {
         position: absolute;
         left: 80%;
